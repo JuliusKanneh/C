@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624505412 source:/home/dr/Documents/C_Projects/SortingChar/main.c
+	<stdio.h>
+	<stdlib.h>
+
